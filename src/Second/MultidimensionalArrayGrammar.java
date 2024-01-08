@@ -1,6 +1,6 @@
 package Second;
 
-public class MultidimensionalArray {
+public class MultidimensionalArrayGrammar {
     public static void main(String[] args) {
         // 중괄호를 사용해 초기화
         int[][] array1 = {
