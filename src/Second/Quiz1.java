@@ -3,7 +3,7 @@ package Second;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class IfGrammarQuiz {
+public class Quiz1 {
     // if 문을 사용하여 가위바위보 게임 만들어 보기
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
