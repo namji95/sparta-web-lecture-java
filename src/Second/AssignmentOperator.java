@@ -1,6 +1,6 @@
 package Second;
 
-public class Assignment_Operator {
+public class AssignmentOperator {
     public static void main(String[] args) {
         /*
         Assignment_Operator (대입연산자)
@@ -62,3 +62,22 @@ public class Assignment_Operator {
          */
     }
 }
+
+/*
+
+---------------기본 대입 연산자---------------
+num = num + 5 : 15
+num = num - 5 : 10
+num = num * 5 : 50
+num = num / 5 : 10
+num = num % 5 : 0
+---------------복합 대입 연산자---------------
+num += 15 : 15
+num -= 5 : 10
+num *= 5 : 50
+num /= 5 : 10
+num %= 5 : 0
+num++ : 11
+num-- : 10
+
+ */
