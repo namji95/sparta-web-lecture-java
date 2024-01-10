@@ -61,7 +61,7 @@ public class ArrayGrammar {
         System.out.println(); // 줄바꿈
 
         //3. 배열의 주소를 모두 같은값으로 초기화
-        Arrays.fill(intArray7, 1);//배열의 모든 값을 1로 초기화
+        Arrays  .fill(intArray7, 1);//배열의 모든 값을 1로 초기화
 
         for (int i : intArray7) {
             System.out.print(i);  // 11111
