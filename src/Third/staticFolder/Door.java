@@ -1,4 +1,4 @@
-package Third.parameter;
+package Third.staticFolder;
 
 public class Door {
     public Door () {
