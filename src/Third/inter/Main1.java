@@ -1,6 +1,6 @@
 package Third.inter;
 
-public class Main extends D implements C {
+public class Main1 extends D implements C {
 
     @Override
     public void a() {
@@ -18,7 +18,7 @@ public class Main extends D implements C {
     }
 
     public static void main(String[] args) {
-        Main main = new Main();
+        Main1 main = new Main1();
         main.a();
         main.b();
         main.d();
