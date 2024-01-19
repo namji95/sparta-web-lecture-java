@@ -1,2 +1,5 @@
-package Third.Quiz;public class AbstractOperation {
+package Third.Quiz;
+
+public abstract class AbstractOperation {
+    public abstract double operate (int firstNumber, int secondNumber);
 }
