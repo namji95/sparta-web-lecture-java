@@ -1,4 +1,4 @@
-package Third.parameter;
+package Third.constructor;
 
 public class Tire {
     String company; // 타이어 회사

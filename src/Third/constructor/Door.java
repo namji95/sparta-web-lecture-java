@@ -1,4 +1,4 @@
-package Third.parameter;
+package Third.constructor;
 
 public class Door {
     public Door () {
